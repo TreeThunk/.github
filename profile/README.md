@@ -1,11 +1,5 @@
-# TreeThunk
+# Tree Thunk
 
-## 🌳 Think. Transform. Thrive.
+## Where software thrives.
 
 Coming soon.
-
-🙋‍♀️ -
-🌈 -
-👩‍💻 -
-🍿 -
-🧙 -
